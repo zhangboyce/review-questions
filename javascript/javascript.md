@@ -14,4 +14,10 @@
 3. 调用该function的call方法并将该object作为其参数，那么function内部的this变量就讲是该object并且赋值。
 4. 一般情况返回object，除非function内部显示返回了其他的object类型的值。
 
-#### 5.
+#### 5. apply, call和bind有什么区别？
+参考：三者都可以把一个函数应用到其他对象上，注意不是自身对象．apply,call是直接执行函数调用，bind是绑定，执行需要再次调用．apply和call的区别是apply接受数组作为参数，而call是接受逗号分隔的无限多个参数列表。
+
+#### 6. 列举数组相关的常用方法。
+参考： push/pop, shift/unshift, split/join, slice/splice/concat, sort/reverse, map/reduce, forEach, filter
+
+#### 7. nodejs文件读写的同步api是怎么实现的？
