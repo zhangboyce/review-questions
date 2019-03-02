@@ -1,0 +1,1 @@
+#### 1. 请阐述JavaScript中instanceof关键字的作用。
