@@ -21,3 +21,39 @@
 参考： push/pop, shift/unshift, split/join, slice/splice/concat, sort/reverse, map/reduce, forEach, filter
 
 #### 7. nodejs文件读写的同步api是怎么实现的？
+
+## 技术类
+
+### 一、JavaScipt
+#### 1、Javascript如何实现继承（es5、es6）
+#### 2、比较两个对象
+#### 3、对象的深拷贝
+#### 4、使用requestAnimationFrame制作一个动画效果
+#### 5、写一个数组去重的方法
+#### 6、event中target与currentTarget的区别、事件代理
+#### 7、call、apply、bind的区别
+#### 8、常见的内存泄漏原因
+#### 9、require/exports和import/export的区别
+
+### 二、Vue
+#### 1、代码实现数据劫持
+#### 2、描述一下虚拟DOM
+#### 3、Vuex中actions和mutations的区别
+#### 4、Vue-router与location的区别
+#### 5、Vue-router如何传递参数
+#### 5、WebPack多文件入口配置
+
+### 三、优化
+#### 1、网站优化可以采取的几种方法
+#### 2、WebPack优化
+#### 3、描述强缓存与协商缓存
+#### 5、浏览器打开网站的几个阶段
+
+### 四、服务端
+#### 1、描述一下 Cache Aside 更新模式
+
+### 五、测试
+#### 1、Chrome DevTools中`Preserve Log`选项的优缺点
+#### 2、Selenium 如何绕过 `Element is not clickable`
+
+## 业务类
